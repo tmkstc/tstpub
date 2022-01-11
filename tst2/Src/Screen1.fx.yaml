@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =51
+        Y: =138
+        ZIndex: =2
+
